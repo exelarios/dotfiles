@@ -10,3 +10,9 @@ export TERM=xterm-256color
 export ANDROID_HOME=/Users/deric/Library/Android/sdk
 export ANDROID_SDK_ROOT=/Users/deric/Library/Android/sdk
 export ANDROID_AVD_HOME=/Users/deric/.android/avd
+
+
+export CLICOLOR=1
+export LSCOLORS=ExFxCxDxBxegedabagacad
+
+source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
